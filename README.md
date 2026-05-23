@@ -121,7 +121,7 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_progress=true&card_width=445&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
