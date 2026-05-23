@@ -119,14 +119,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=python" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rominkevadiya&theme=github-dark-blue&hide_border=true)
+<img width="70%" src="https://streak-stats.demolab.com?user=rominkevadiya&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -136,6 +137,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
 
-*I build systems that solve real problems. Let's connect!*
+### I build systems that solve real problems.
 
 </div>
