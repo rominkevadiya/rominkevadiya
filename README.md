@@ -119,15 +119,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rominkevadiya&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=rominkevadiya&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 </div>
 
