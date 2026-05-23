@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning(Basics)&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rominkevadiya-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rominkevadiya)
 [![Gmail](https://img.shields.io/badge/Gmail-rominkevadiya%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rominkevadiya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-romin711-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romin711)
-[![Profile Views](https://komarev.com/ghpvc/?username=romin711&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/romin711)
+[![GitHub](https://img.shields.io/badge/GitHub-rominkevadiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rominkevadiya)
+[![Profile Views](https://komarev.com/ghpvc/?username=rominkevadiya&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/rominkevadiya)
 
 </div>
 
@@ -65,10 +65,10 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>🛒 <a href="https://github.com/romin711/E-commerce">E-Commerce Backend System</a></h3>
+      <h3>🛒 <a href="https://github.com/rominkevadiya/E-commerce">E-Commerce Backend System</a></h3>
       <p>Complete backend with authentication and product management, built with Java and JDBC.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/romin711/E-commerce?style=flat-square&color=f1c40f" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/E-commerce?style=flat-square&color=f1c40f" />
       <ul>
         <li>Relational schema design with PostgreSQL</li>
         <li>JDBC-based data access layer</li>
@@ -76,10 +76,10 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>🎬 <a href="https://github.com/romin711/ANIMATION_ENGINE">Animation Engine</a></h3>
+      <h3>🎬 <a href="https://github.com/rominkevadiya/ANIMATION_ENGINE">Animation Engine</a></h3>
       <p>A custom JavaScript animation engine for building smooth, declarative UI animations.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/github/stars/romin711/ANIMATION_ENGINE?style=flat-square&color=f1c40f" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/ANIMATION_ENGINE?style=flat-square&color=f1c40f" />
       <ul>
         <li>Custom animation loop & timing control</li>
         <li>Declarative animation API</li>
@@ -89,10 +89,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>💰 <a href="https://github.com/romin711/Arthasanket">Arthasanket</a></h3>
+      <h3>💰 <a href="https://github.com/rominkevadiya/Arthasanket">Arthasanket</a></h3>
       <p>A financial management platform for tracking income, expenses, and budgets.</p>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/github/stars/romin711/Arthasanket?style=flat-square&color=f1c40f" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/Arthasanket?style=flat-square&color=f1c40f" />
       <ul>
         <li>User-friendly financial dashboard</li>
         <li>Expense categorization & insights</li>
@@ -100,10 +100,10 @@
       </ul>
     </td>
     <td width="50%">
-      <h3>🌱 <a href="https://github.com/romin711/BeejVaidya-Intelligent-crop-disease-detection">BeejVaidya</a></h3>
+      <h3>🌱 <a href="https://github.com/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection">BeejVaidya</a></h3>
       <p>AI-powered crop disease detection platform helping farmers identify plant diseases early.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/romin711/BeejVaidya-Intelligent-crop-disease-detection?style=flat-square&color=f1c40f" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection?style=flat-square&color=f1c40f" />
       <ul>
         <li>Intelligent image-based disease detection</li>
         <li>Machine learning model integration</li>
@@ -119,14 +119,14 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=romin711&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romin711&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=python" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=github_dark&hide_border=true&langs_count=6&hide=python" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=romin711&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=rominkevadiya&theme=github-dark-blue&hide_border=true)
 
 </div>
 
