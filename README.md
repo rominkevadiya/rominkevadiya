@@ -13,7 +13,7 @@ AI-powered applications, and developer tools.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Building+AI-powered+Applications;Designing+Scalable+Backend+Systems;Researching+Recommendation+Algorithms;Developing+Developer+Tools;Computer+Vision+%7C+Machine+Learning;FastAPI+%7C+Java+%7C+Python;Open+Source+Contributor;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Building+AI-powered+Applications;Designing+Scalable+Backend+Systems;Turning+Ideas+into+Production+Software;Learning+Relentlessly,+Shipping+Consistently" />
 
 <br><br>
 
@@ -46,7 +46,9 @@ AI-powered applications, and developer tools.
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-I enjoy building software that solves real-world problems — systems that are correct under load, pleasant to extend, and honest about their tradeoffs. My work sits at the intersection of **applied AI** and **backend engineering**, with a research-driven approach to problems that don't yet have clean answers.
+I enjoy building software that solves real-world problems — systems that are correct under load, pleasant to extend, and honest about their tradeoffs. My work sits at the intersection of **application engineering**, **AI product development**, and **backend architecture**.
+
+I focus on writing maintainable software, understanding fundamentals deeply, and building with a long-term mindset.
 
 **Currently exploring:**
 
@@ -317,7 +319,7 @@ philosophy: "Software should remain easy to change."
 
 </div>
 
-Proposes an **Algorithmic Identity Formation Model** exploring how personalized recommendation systems, despite their individualized framing, contribute to a homogenized generational identity — examining the tension between algorithmic personalization and cultural uniformity.
+Proposes an **Algorithmic Identity Formation Model** exploring how personalized recommendation systems, despite their individualized framing, contribute to a homogenized generational identity — particularly among digital-native populations.
 
 **Research interests:** Recommendation Systems · Social Computing · Algorithms · Human Behaviour
 
@@ -373,7 +375,7 @@ Proposes an **Algorithmic Identity Formation Model** exploring how personalized 
 
 ### 📊 GitHub Analytics
 
-Consistency matters more than occasional bursts of activity. These metrics provide a snapshot of my development journey, highlighting the technologies I work with, my coding habits, and my contributions to open-source and personal projects.
+Consistency matters more than occasional bursts of activity. These metrics provide a snapshot of my development journey, highlighting the technologies I work with, my coding habits, and my contribution consistency.
 
 <div align="center">
 
@@ -383,7 +385,7 @@ Consistency matters more than occasional bursts of activity. These metrics provi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RominKevadiya&theme=react&background=020617&stroke=10B981&ring=34D399&fire=22C55E&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0&border=10B981" />
+<img src="https://streak-stats.demolab.com?user=RominKevadiya&theme=react&background=020617&stroke=10B981&ring=34D399&fire=22C55E&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0&border=10B981" />
 
 <br/>
 
@@ -408,8 +410,8 @@ Every green square represents a step in my continuous learning journey. This vis
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RominKevadiya/RominKevadiya/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RominKevadiya/RominKevadiya/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rominkevadiya/rominkevadiya/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rominkevadiya/rominkevadiya/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
