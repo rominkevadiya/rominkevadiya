@@ -1,454 +1,145 @@
+redesign this with professional design, elements and you can more details about this
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ROMIN%20KEVADIYA&fontSize=52&fontColor=E2E8F0&animation=fadeIn&fontAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
 
-<h3>
-AI Engineer • Backend Developer • Researcher
-</h3>
-
-<p>
-Building intelligent software, scalable backend systems,<br>
-AI-powered applications, and developer tools.
-</p>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=760&lines=Building+AI-powered+Applications;Designing+Scalable+Backend+Systems;Turning+Ideas+into+Production+Software;Learning+Relentlessly,+Shipping+Consistently" />
-
-<br><br>
-
-<a href="https://github.com/RominKevadiya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/romin-kevadiya">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:rominkevadiya@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-10B981?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<br><br>
-
-> *"Build software that solves real-world problems through engineering, not complexity."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rominkevadiya-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rominkevadiya)
+[![Gmail](https://img.shields.io/badge/Gmail-rominkevadiya%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rominkevadiya@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rominkevadiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rominkevadiya)
+[![Profile Views](https://komarev.com/ghpvc/?username=rominkevadiya&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/rominkevadiya)
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
 
-## `01` About Me
+> Building backend systems that work in production — not just in demos.
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+- 🎓 **B.E. Mathematics and Computing** (2024–2028)
+- 💡 **Expertise:** OOP, Data Structures & Algorithms, System Design
+- 🔥 **Passion:** Authentication systems, workflow engines, and database-driven architectures
+- 🌱 **Currently Learning:** AI & backend integration, Microservices design, Advanced architecture patterns
+- 📍 Open to collaboration on backend and full-stack projects
 
-I enjoy building software that solves real-world problems — systems that are correct under load, pleasant to extend, and honest about their tradeoffs. My work sits at the intersection of **application engineering**, **AI product development**, and **backend architecture**.
+---
 
-I focus on writing maintainable software, understanding fundamentals deeply, and building with a long-term mindset.
-
-**Currently exploring:**
-
-```yaml
-interests:
-  - Artificial Intelligence
-  - Backend Engineering
-  - System Design
-  - Developer Tools
-  - Distributed Systems
-  - Computer Vision
-based_in: Ahmedabad, Gujarat, India
-philosophy: "Software should remain easy to change."
-```
-
-<br clear="right"/>
-
-<br/>
-
-## `02` Current Focus
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-- [x] Building production-grade AI applications
-- [x] Backend engineering with FastAPI & Java
-- [x] System design for scale and clarity
-- [ ] Distributed systems, in depth
-
-</td>
-<td width="50%" valign="top">
-
-- [x] Contributing to open source
-- [x] Hackathons & applied research
-- [x] Speaking at developer communities
-- [ ] Publishing a second research paper
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `03` Engineering Philosophy
-
-<table width="100%">
-<tr>
-<td width="25%" align="center" valign="top">
-
-**Clean Architecture**
-<br/>
-<sub>Boundaries first. Frameworks are details, not decisions.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**SOLID**
-<br/>
-<sub>Code that tolerates change without collapsing.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Performance**
-<br/>
-<sub>Measure before optimizing. Never guess.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Security**
-<br/>
-<sub>Trust nothing at the boundary, verify everything.</sub>
-
-</td>
-</tr>
-<tr>
-<td width="25%" align="center" valign="top">
-
-**Scalability**
-<br/>
-<sub>Design for 10x before you need it, not 100x.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Developer Experience**
-<br/>
-<sub>Good tooling is a force multiplier for a team.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Maintainability**
-<br/>
-<sub>Code is read far more often than it's written.</sub>
-
-</td>
-<td width="25%" align="center" valign="top">
-
-**Readable Code**
-<br/>
-<sub>Clever code is a liability disguised as a skill.</sub>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `04` Tech Stack
-
-<table width="100%">
-<tr><td><b>Languages</b></td><td>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" />
-</td></tr>
-<tr><td><b>Backend</b></td><td>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark" />
-&nbsp;&nbsp;<code>REST APIs</code>&nbsp;<code>JDBC</code>
-</td></tr>
-<tr><td><b>Frontend</b></td><td>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
-</td></tr>
-<tr><td><b>Database</b></td><td>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" />
-</td></tr>
-<tr><td><b>AI / ML</b></td><td>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" />
-&nbsp;&nbsp;<code>MobileNetV2</code>
-</td></tr>
-<tr><td><b>Tools</b></td><td>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode,idea,aws&theme=dark" />
-</td></tr>
-</table>
-
-<br/>
-
-## `05` Architecture
+## 🛠️ Tech Stack
 
 <div align="center">
 
-```
-┌──────────────────────────┐
-│           Users           │
-└─────────────┬─────────────┘
-              │
-┌─────────────▼─────────────┐
-│         API Layer          │   FastAPI · Express · REST
-└─────────────┬─────────────┘
-              │
-┌─────────────▼─────────────┐
-│      Business Logic        │   Services · Validation · Rules
-└─────────────┬─────────────┘
-              │
-┌─────────────▼─────────────┐
-│          AI Layer           │  TensorFlow · OpenCV · Inference
-└─────────────┬─────────────┘
-              │
-┌─────────────▼─────────────┐
-│      Repository Layer      │   ORM · JDBC · Query Builders
-└─────────────┬─────────────┘
-              │
-┌─────────────▼─────────────┐
-│          Database           │  PostgreSQL · MySQL · MongoDB
-└──────────────────────────┘
-```
+**Languages**
 
-</div>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<br/>
+**Databases**
 
-## `06` Featured Projects
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🌱 BeejVaidya</h3>
-<p><i>AI-powered crop disease detection system</i></p>
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-020617?style=flat-square&logo=tensorflow&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/FastAPI-020617?style=flat-square&logo=fastapi&logoColor=34D399"/>
-</p>
-<ul>
-<li>90.69% classification accuracy</li>
-<li>Validated on 677 unseen field images</li>
-<li>End-to-end inference pipeline via FastAPI</li>
-</ul>
-<a href="#"><img src="https://img.shields.io/badge/Repository-10B981?style=flat-square&logo=github&logoColor=020617"/></a>
-</td>
-<td width="50%" valign="top">
-<h3>📊 Pivotly</h3>
-<p><i>Startup intelligence & market analysis platform</i></p>
-<p>
-<img src="https://img.shields.io/badge/React-020617?style=flat-square&logo=react&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Node.js-020617?style=flat-square&logo=nodedotjs&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=22C55E"/>
-</p>
-<ul>
-<li>AI-generated startup insights</li>
-<li>Real-time data aggregation</li>
-<li>Interactive analytics dashboard</li>
-</ul>
-<a href="#"><img src="https://img.shields.io/badge/Repository-10B981?style=flat-square&logo=github&logoColor=020617"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🗺️ CodeAtlas</h3>
-<p><i>Repository intelligence & developer analytics</i></p>
-<p>
-<img src="https://img.shields.io/badge/Analytics-020617?style=flat-square&logo=chartdotjs&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Visualization-020617?style=flat-square&logo=d3dotjs&logoColor=34D399"/>
-</p>
-<ul>
-<li>Architecture visualization for codebases</li>
-<li>Dependency graph analysis</li>
-<li>Developer contribution analytics</li>
-</ul>
-<a href="#"><img src="https://img.shields.io/badge/Repository-10B981?style=flat-square&logo=github&logoColor=020617"/></a>
-</td>
-<td width="50%" valign="top">
-<h3>🏏 SeniorMindAI Cricket</h3>
-<p><i>AI-driven cricket analytics engine</i></p>
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-020617?style=flat-square&logo=scikitlearn&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/Prediction-020617?style=flat-square&logo=python&logoColor=34D399"/>
-</p>
-<ul>
-<li>Match outcome & performance prediction</li>
-<li>Player analytics visualization</li>
-<li>ML-based statistical modeling</li>
-</ul>
-<a href="#"><img src="https://img.shields.io/badge/Repository-10B981?style=flat-square&logo=github&logoColor=020617"/></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🛒 E-Commerce Backend</h3>
-<p><i>Role-based, production-style commerce backend</i></p>
-<p>
-<img src="https://img.shields.io/badge/Java-020617?style=flat-square&logo=openjdk&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/JDBC-020617?style=flat-square&logo=oracle&logoColor=34D399"/>
-<img src="https://img.shields.io/badge/PostgreSQL%2FMySQL-020617?style=flat-square&logo=postgresql&logoColor=22C55E"/>
-</p>
-<ul>
-<li>Role-based access architecture</li>
-<li>Authentication & authorization</li>
-<li>Billing and order management</li>
-</ul>
-<a href="#"><img src="https://img.shields.io/badge/Repository-10B981?style=flat-square&logo=github&logoColor=020617"/></a>
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
+**Frameworks & Tools**
 
-<br/>
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 
-## `07` Research
+**IDEs**
 
-<div align="center">
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Personalised Yet Uniform:
-### Algorithmic Curation and the Construction of Generational Identity
+**Operating Systems**
 
-<sub>Presented at the IFERP International Conference</sub>
-
-</div>
-
-Proposes an **Algorithmic Identity Formation Model** exploring how personalized recommendation systems, despite their individualized framing, contribute to a homogenized generational identity — particularly among digital-native populations.
-
-**Research interests:** Recommendation Systems · Social Computing · Algorithms · Human Behaviour
-
-<br/>
-
-## `08` Achievements
-
-<table width="100%">
-<tr align="center">
-<td width="20%"><h2>20+</h2>Projects Shipped</td>
-<td width="20%"><h2>Top 10%</h2>ET GenAI Hackathon</td>
-<td width="20%"><h2>📄</h2>Research Paper Presented</td>
-<td width="20%"><h2>🏆</h2>JetBrains IDEA Ultimate Winner</td>
-<td width="20%"><h2>20+</h2>Developer Events</td>
-</tr>
-</table>
-
-<br/>
-
-## `09` Experience & Community
-
-<table width="100%">
-<tr><td>🔹</td><td><b>GDG Ahmedabad</b></td><td>Community member & event contributor</td></tr>
-<tr><td>🔹</td><td><b>GDG Cloud Gandhinagar</b></td><td>Community member</td></tr>
-<tr><td>🔹</td><td><b>AWS Ahmedabad</b></td><td>Community member</td></tr>
-<tr><td>🔹</td><td><b>Java User Group Gujarat</b></td><td>Community member</td></tr>
-<tr><td>🔹</td><td><b>Hackathons</b></td><td>ET GenAI Hackathon — Top 10% finish</td></tr>
-<tr><td>🔹</td><td><b>Open Source</b></td><td>Active contributor across personal & community projects</td></tr>
-</table>
-
-<br/>
-
-## `10` Developer Timeline
-
-```
-2024 ──────────────────────────────────────────────►
-
-  │
-  ├── Started Backend Engineering
-  │
-  ├── Shipped AI Projects (Computer Vision, ML)
-  │
-  ├── Published Research (IFERP Conference)
-  │
-  ├── Competed in Hackathons (ET GenAI — Top 10%)
-  │
-  ├── Contributed to Open Source
-  │
-  └── Today — Building, Researching, Iterating
-```
-
-<br/>
-
-### 📊 GitHub Analytics
-
-Consistency matters more than occasional bursts of activity. These metrics provide a snapshot of my development journey, highlighting the technologies I work with, my coding habits, and my contribution consistency.
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RominKevadiya&show_icons=true&theme=react&bg_color=020617&title_color=10B981&icon_color=34D399&text_color=E2E8F0&border_color=10B981" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RominKevadiya&layout=compact&theme=react&bg_color=020617&title_color=10B981&text_color=E2E8F0&border_color=10B981" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=RominKevadiya&theme=react&background=020617&stroke=10B981&ring=34D399&fire=22C55E&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=E2E8F0&border=10B981" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RominKevadiya&theme=react-dark&bg_color=020617&color=34D399&line=10B981&point=22C55E&area=true&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=RominKevadiya&theme=algolia&no-frame=true&row=1&column=7&margin-w=8" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=RominKevadiya&label=Profile%20Views&color=10B981&style=for-the-badge" />
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## ⭐ Starred Projects
 
-Every green square represents a step in my continuous learning journey. This visualization reflects my commitment to building projects, experimenting with new technologies, and contributing consistently over time.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛒 <a href="https://github.com/rominkevadiya/E-commerce">E-Commerce Backend System</a></h3>
+      <p>Complete backend with authentication and product management, built with Java and JDBC.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/E-commerce?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>Relational schema design with PostgreSQL</li>
+        <li>JDBC-based data access layer</li>
+        <li>Modular, maintainable architecture</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🎬 <a href="https://github.com/rominkevadiya/ANIMATION_ENGINE">Animation Engine</a></h3>
+      <p>A custom JavaScript animation engine for building smooth, declarative UI animations.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/ANIMATION_ENGINE?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>Custom animation loop & timing control</li>
+        <li>Declarative animation API</li>
+        <li>Lightweight with zero dependencies</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>💰 <a href="https://github.com/rominkevadiya/Arthasanket">Arthasanket</a></h3>
+      <p>A financial management platform for tracking income, expenses, and budgets.</p>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/Arthasanket?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>User-friendly financial dashboard</li>
+        <li>Expense categorization & insights</li>
+        <li>Clean, responsive interface</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3>🌱 <a href="https://github.com/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection">BeejVaidya</a></h3>
+      <p>AI-powered crop disease detection platform helping farmers identify plant diseases early.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/github/stars/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection?style=flat-square&color=f1c40f" />
+      <ul>
+        <li>Intelligent image-based disease detection</li>
+        <li>Machine learning model integration</li>
+        <li>Farmer-friendly actionable insights</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rominkevadiya/rominkevadiya/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/rominkevadiya/rominkevadiya/output/github-contribution-grid-snake.svg" />
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_progress=true&card_width=445&bg_color=00000000" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rominkevadiya&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## `13` A Thought
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+
+### I build systems that solve real problems.
 
 </div>
 
-<br/>
 
-## `14` Connect
-
-<div align="center">
-
-Open to conversations on AI systems, backend architecture, and research collaborations.
-
-<a href="https://github.com/RominKevadiya"><img src="https://img.shields.io/badge/GitHub-10B981?style=for-the-badge&logo=github&logoColor=020617" /></a>
-<a href="https://linkedin.com/in/romin-kevadiya"><img src="https://img.shields.io/badge/LinkedIn-34D399?style=for-the-badge&logo=linkedin&logoColor=020617" /></a>
-<a href="mailto:romin.kevadiya@example.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=020617" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-E2E8F0?style=for-the-badge&logo=vercel&logoColor=020617" /></a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<i>"Build software that remains easy to change."</i>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:10B981,100:020617&height=120&section=footer" />
-
-</div>
