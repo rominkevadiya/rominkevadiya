@@ -1,142 +1,271 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:38BDF8&text=Romin%20Kevadiya&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Engineer%20•%20Java%20•%20Python%20•%20AI%20Applications%20•%20Open%20Source&descAlignY=58&descColor=e2e8f0" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rominkevadiya-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rominkevadiya)
-[![Gmail](https://img.shields.io/badge/Gmail-rominkevadiya%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rominkevadiya@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rominkevadiya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rominkevadiya)
-[![Profile Views](https://komarev.com/ghpvc/?username=rominkevadiya&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS)](https://github.com/rominkevadiya)
+# Hi there 👋 I'm Romin Kevadiya
 
-</div>
+### Backend Engineer • Java • Python • Machine Learning • System Design
 
----
+> *Designing reliable software, building scalable backend systems, and solving real-world problems through technology.*
 
-## 👨‍💻 About Me
-
-> Building backend systems that work in production — not just in demos.
-
-- 🎓 **B.E. Mathematics and Computing** (2024–2028)
-- 💡 **Expertise:** OOP, Data Structures & Algorithms, System Design
-- 🔥 **Passion:** Authentication systems, workflow engines, and database-driven architectures
-- 🌱 **Currently Learning:** AI & backend integration, Microservices design, Advanced architecture patterns
-- 📍 Open to collaboration on backend and full-stack projects
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Frameworks & Tools**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-
-**IDEs**
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-**Operating Systems**
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rominkevadiya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rominkevadiya)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rominkevadiya@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=rominkevadiya&style=for-the-badge&color=2563EB)](https://github.com/rominkevadiya)
 
 </div>
 
 ---
 
-## ⭐ Starred Projects
+# 🚀 About Me
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛒 <a href="https://github.com/rominkevadiya/E-commerce">E-Commerce Backend System</a></h3>
-      <p>Complete backend with authentication and product management, built with Java and JDBC.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/rominkevadiya/E-commerce?style=flat-square&color=f1c40f" />
-      <ul>
-        <li>Relational schema design with PostgreSQL</li>
-        <li>JDBC-based data access layer</li>
-        <li>Modular, maintainable architecture</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🎬 <a href="https://github.com/rominkevadiya/ANIMATION_ENGINE">Animation Engine</a></h3>
-      <p>A custom JavaScript animation engine for building smooth, declarative UI animations.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/github/stars/rominkevadiya/ANIMATION_ENGINE?style=flat-square&color=f1c40f" />
-      <ul>
-        <li>Custom animation loop & timing control</li>
-        <li>Declarative animation API</li>
-        <li>Lightweight with zero dependencies</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>💰 <a href="https://github.com/rominkevadiya/Arthasanket">Arthasanket</a></h3>
-      <p>A financial management platform for tracking income, expenses, and budgets.</p>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/github/stars/rominkevadiya/Arthasanket?style=flat-square&color=f1c40f" />
-      <ul>
-        <li>User-friendly financial dashboard</li>
-        <li>Expense categorization & insights</li>
-        <li>Clean, responsive interface</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>🌱 <a href="https://github.com/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection">BeejVaidya</a></h3>
-      <p>AI-powered crop disease detection platform helping farmers identify plant diseases early.</p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/github/stars/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection?style=flat-square&color=f1c40f" />
-      <ul>
-        <li>Intelligent image-based disease detection</li>
-        <li>Machine learning model integration</li>
-        <li>Farmer-friendly actionable insights</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I'm a **Mathematics & Computing undergraduate** passionate about building software that is clean, scalable, and useful in production.
+
+Rather than only creating projects, I enjoy understanding **how systems are designed**, **why architectures scale**, and **how software evolves over time**.
+
+My primary interests lie in:
+
+- ⚙ Backend Engineering
+- 🏗 System Design
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🗄 Database Systems
+- 🌐 Open Source
 
 ---
 
-## 📊 GitHub Stats
+# 🎯 Current Focus
+
+```text
+Building
+│
+├── Production-ready Backend Systems
+├── REST APIs
+├── Database Driven Applications
+└── AI-powered Solutions
+
+Learning
+│
+├── Spring Boot
+├── Microservices
+├── Docker
+├── Kubernetes
+└── Cloud Architecture
+```
+
+---
+
+# 🏗 Engineering Principles
+
+- Clean Architecture
+- SOLID Principles
+- Maintainable Code
+- Scalable Systems
+- Performance First
+- Security by Design
+- Readability over Cleverness
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,flask,nodejs" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman" />
+</p>
+
+## Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=fedora,ubuntu,windows" />
+</p>
+
+---
+
+# 🧩 Architecture Mindset
+
+```text
+                   Users
+                     │
+                     ▼
+               REST API Layer
+                     │
+                     ▼
+            Business Logic Layer
+                     │
+                     ▼
+             Repository / DAO Layer
+                     │
+                     ▼
+               PostgreSQL Database
+```
+
+I enjoy designing layered applications that separate concerns, improve maintainability, and scale with growing requirements.
+
+---
+
+# ⭐ Featured Projects
+
+## 🚀 CodeAtlas
+
+**Repository Intelligence Platform**
+
+A modern developer platform for understanding repositories through dependency analysis, code metrics, and repository visualization.
+
+**Highlights**
+
+- Repository Analysis
+- Code Intelligence
+- Dependency Mapping
+- AI-assisted Insights
+
+**Tech**
+
+`Python` `JavaScript` `AI`
+
+Repository:
+https://github.com/rominkevadiya/codeAtlas
+
+---
+
+## 🛒 E-Commerce Backend
+
+Production-oriented backend system built using Java and JDBC.
+
+### Features
+
+- Authentication
+- Seller Management
+- Product Management
+- PostgreSQL Database
+- Layered Architecture
+- JDBC Data Access
+
+Repository:
+https://github.com/rominkevadiya/E-commerce
+
+---
+
+## 🌱 BeejVaidya
+
+AI-powered crop disease detection platform.
+
+### Features
+
+- Machine Learning
+- Disease Prediction
+- Farmer Assistance
+- Image Processing
+
+Repository:
+https://github.com/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection
+
+---
+
+## 💰 Arthasanket
+
+Personal finance platform for managing income, expenses, and budgeting.
+
+### Features
+
+- Expense Tracking
+- Budget Management
+- Financial Dashboard
+- Analytics
+
+Repository:
+https://github.com/rominkevadiya/Arthasanket
+
+---
+
+# 🏆 Achievements
+
+- 🏅 Research Paper selected at an International IFERP Conference
+- 💻 Built **20+ Software Projects**
+- 🚀 Active Open Source Contributor
+- 🎁 Winner of **JetBrains IntelliJ IDEA Ultimate License**
+- 🌍 Participant in multiple GDG Cloud & Developer Community Events
+- 👥 Growing developer community with **3000+ LinkedIn Followers**
+
+---
+
+# 📚 Areas of Interest
+
+- Backend Engineering
+- Artificial Intelligence
+- Machine Learning
+- System Design
+- Distributed Systems
+- Database Design
+- Linux
+- Open Source
+- Developer Tools
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rominkevadiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_progress=true&card_width=445&bg_color=00000000" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-</div>
+<br><br>
 
-<div align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=rominkevadiya&theme=tokyonight&hide_border=true&background=00000000"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=rominkevadiya&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rominkevadiya&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
+# 🎯 2026 Goals
+
+- ✅ Build Production Backend Systems
+- 🔄 Master Spring Boot
+- 🔄 Learn Docker & Kubernetes
+- 🔄 Deepen System Design Knowledge
+- 🔄 Contribute to Major Open Source Projects
+- 🔄 Publish More Technical Articles
+- 🔄 Build AI-powered SaaS Applications
+
+---
+
+# 💭 Philosophy
+
+> **"Good software isn't measured by the number of features it has. It's measured by how well it can evolve."**
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+### Thanks for stopping by!
 
-### I build systems that solve real problems.
+If you like my work, consider ⭐ starring a repository or connecting with me on LinkedIn.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38BDF8,50:2563EB,100:0F172A"/>
 
 </div>
