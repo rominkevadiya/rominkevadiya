@@ -8,8 +8,8 @@
 
 <a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-020617?style=flat-square&logo=linkedin&logoColor=%230A66C2" height="28"/></a>&nbsp;
 <a href="mailto:rominkevadiya@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=34D399" height="28"/></a>&nbsp;
-<a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=22C55E" height="28"/></a>
-
+<a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=22C55E" height="28"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1pNkgJQxWyQa3Fdk-v29bUkcxVQaBQGye/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-020617?style=flat-square&logo=googledrive&logoColor=34D399" height="28"/></a>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -24,14 +24,14 @@ I mostly work on **backend development** and **machine learning**. Outside of co
 
 | 🎓 | 📍 | 🧪 | 🟢 |
 |:---|:---|:---|:---|
-| **B.E. Mathematics & Computing** | **Ahmedabad, Gujarat** | **Presented Research Paper — IFERP** | **Open to PPO** |
+| **B.E. Mathematics & Computing** | **Ahmedabad, Gujarat** | **Presented Research Paper — IFERP** | **Open to internships/full-time roles** |
 
 ## Current Focus
 
 <table width="100%">
 <tr>
 <td width="25%" valign="top"><h4>🏗️ Building</h4><sub>Backend systems with proper logins, data checks & good APIs</sub></td>
-<td width="25%" valign="top"><h4>🧠 Learning</h4><sub>Microservices, cloud tools, and adding AI into backends</sub></td>
+<td width="25%" valign="top"><h4>🧠 Learning</h4><sub>Docker, AWS (ECS/Lambda), and microservice patterns for splitting up backends</sub></td>
 <td width="25%" valign="top"><h4>🤝 Collaborating</h4><sub>On backend, full-stack, and AI-based projects</sub></td>
 <td width="25%" valign="top"><h4>🔍 Exploring</h4><sub>Computer vision and training models on new data</sub></td>
 </tr>
@@ -156,25 +156,19 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 
 <table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
 <tr>
-<td width="25%" valign="top">
-<h2>🏆</h2>
-<b>Semi-Finalist</b>
-<br/>
-<sub style="text-align:justify; display:block">ET Gen AI Hackathon — top 10% of participants</sub>
-</td>
-<td width="25%" valign="top">
-<h2>🥇</h2>
-<b>Winner</b>
-<br/>
-<sub style="text-align:justify; display:block">Java User Group Gujarat — Social Media Contest</sub>
-</td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
 <h2>🎖️</h2>
 <b>Semi-Finalist</b>
 <br/>
 <sub style="text-align:justify; display:block">ET-AI Hackathon 2026 — The Economic Times</sub>
 </td>
-<td width="25%" valign="top">
+<td width="33%" valign="top">
+<h2>🥇</h2>
+<b>Winner</b>
+<br/>
+<sub style="text-align:justify; display:block">Java User Group Gujarat — Social Media Contest</sub>
+</td>
+<td width="33%" valign="top">
 <h2>🎖️</h2>
 <b>Hackathon Track</b>
 <br/>
@@ -200,9 +194,9 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 ```
 2024   ──▶  Started B.E. in Mathematics and Computing
 2025   ──▶  Built first production-style Java backend (E-Commerce System)
-2025   ──▶  Presented research paper at IFERP (ICRAET 2026)
+2026   ──▶  Presented research paper — IFERP International Conference (ICRAET 2026)
 2026   ──▶  Shipped BeejVaidya — 90.69% accuracy crop disease classifier
-2026   ──▶  Semi-Finalist, ET Gen AI Hackathon
+2026   ──▶  Semi-Finalist, ET-AI Hackathon 2026 (The Economic Times)
 2026   ──▶  Building Pivotly — AI-assisted venture intelligence platform
 ```
 
@@ -210,7 +204,7 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 
 ## Analytics
 
-<sub>A quick snapshot of activity, languages, and consistency over time.</sub>
+<sub>A quick snapshot of activity, languages, and consistency over time. (Pulled from third-party stat services — if a panel doesn't render, refresh the page.)</sub>
 
 <table width="100%">
 <tr>
@@ -247,7 +241,8 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 
 <a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=%230A66C2" height="30"/></a>&nbsp;
 <a href="mailto:rominkevadiya@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=34D399" height="30"/></a>&nbsp;
-<a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=22C55E" height="30"/></a>
+<a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=22C55E" height="30"/></a>&nbsp;
+<a href="https://drive.google.com/file/d/1pNkgJQxWyQa3Fdk-v29bUkcxVQaBQGye/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0F172A?style=flat-square&logo=googledrive&logoColor=34D399" height="30"/></a>
 
 <sub>Romin Kevadiya — I build systems that solve real problems.</sub>
 
