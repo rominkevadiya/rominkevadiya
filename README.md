@@ -2,9 +2,9 @@
 
 # Romin Kevadiya
 
-<sub><b>BACKEND ENGINEER · FULL-STACK DEVELOPER · AI/ML PRACTITIONER</b></sub>
+<sub><b>BACKEND DEVELOPER · FULL-STACK DEVELOPER · AI/ML ENTHUSIAST</b></sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=34D399&center=true&vCenter=true&width=580&lines=Designing+systems+that+survive+production;Backend+%2B+ML+%2B+full-stack+engineering;B.E.+Mathematics+and+Computing%2C+2024%E2%80%932028" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=34D399&center=true&vCenter=true&width=580&lines=Building+software+that+actually+works;Backend+%2B+ML+%2B+full-stack+development;B.E.+Mathematics+and+Computing%2C+2024%E2%80%932028" alt="Typing SVG"/>
 
 <a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-020617?style=flat-square&logo=linkedin&logoColor=%230A66C2" height="28"/></a>&nbsp;
 <a href="mailto:rominkevadiya@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=34D399" height="28"/></a>&nbsp;
@@ -18,16 +18,16 @@
 
 I'm a Computer Science undergraduate specializing in **Mathematics and Computing**.
 
-I build software that works past the demo stage — relational systems with real data-integrity constraints, APIs designed for the failure cases, and ML pipelines that validate their own inputs before trusting them.
+I like building software that actually works, not just in a demo. That means databases that don't break when something goes wrong, APIs that handle errors properly, and ML models that check their inputs before making a prediction.
 
-My interests sit at the intersection of **backend architecture** and **applied machine learning**. Outside of code, I've presented published research on algorithmic curation, competed in national hackathons, and stayed active in Ahmedabad's developer community.
+I mostly work on **backend development** and **machine learning**. Outside of code, I've presented a research paper, taken part in hackathons, and stayed active in Ahmedabad's developer community.
 
 <table width="100%">
 <tr>
 <td align="center">🎓<br/><sub><b>B.E. Mathematics & Computing</b></sub></td>
 <td align="center">📍<br/><sub><b>Ahmedabad, Gujarat</b></sub></td>
-<td align="center">🧪<br/><sub><b>Published — IFERP</b></sub></td>
-<td align="center">🟢<br/><sub><b>Open to internships</b></sub></td>
+<td align="center">🧪<br/><sub><b>Presented Research Paper — IFERP</b></sub></td>
+<td align="center">🟢<br/><sub><b>Open to PPO</b></sub></td>
 </tr>
 </table>
 
@@ -35,10 +35,10 @@ My interests sit at the intersection of **backend architecture** and **applied m
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><h4>🏗️ Building</h4><sub>Backend systems with real auth, data integrity & API design</sub></td>
-<td width="25%" valign="top"><h4>🧠 Learning</h4><sub>Microservices, cloud-native architecture, AI-integrated backends</sub></td>
-<td width="25%" valign="top"><h4>🤝 Collaborating</h4><sub>On backend, full-stack, and ML-driven products</sub></td>
-<td width="25%" valign="top"><h4>🔍 Exploring</h4><sub>Applied computer vision & transfer learning workflows</sub></td>
+<td width="25%" valign="top"><h4>🏗️ Building</h4><sub>Backend systems with proper logins, data checks & good APIs</sub></td>
+<td width="25%" valign="top"><h4>🧠 Learning</h4><sub>Microservices, cloud tools, and adding AI into backends</sub></td>
+<td width="25%" valign="top"><h4>🤝 Collaborating</h4><sub>On backend, full-stack, and AI-based projects</sub></td>
+<td width="25%" valign="top"><h4>🔍 Exploring</h4><sub>Computer vision and training models on new data</sub></td>
 </tr>
 </table>
 
@@ -56,9 +56,9 @@ My interests sit at the intersection of **backend architecture** and **applied m
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h4>🎯 Correctness first</h4><sub>Edge cases and failure states are part of the spec, not an afterthought.</sub></td>
-<td width="33%" valign="top"><h4>🧱 Simple, composable systems</h4><sub>Modular architecture over clever one-off solutions.</sub></td>
-<td width="33%" valign="top"><h4>📈 Ship, measure, refine</h4><sub>Working software beats theoretical perfection — then iterate with data.</sub></td>
+<td width="33%" valign="top"><h4>🎯 Correctness first</h4><sub>I think about what could go wrong, not just the happy path.</sub></td>
+<td width="33%" valign="top"><h4>🧱 Keep it simple</h4><sub>I'd rather build small, clear pieces than one clever, complicated one.</sub></td>
+<td width="33%" valign="top"><h4>📈 Build, test, improve</h4><sub>I'd rather ship something working and improve it later, using real feedback.</sub></td>
 </tr>
 </table>
 
@@ -73,12 +73,12 @@ My interests sit at the intersection of **backend architecture** and **applied m
 ### 🌾&nbsp; BeejVaidya
 <sub><b>AI Crop Disease Detection System</b></sub>
 
-AI-powered plant health platform using MobileNetV2 transfer learning to classify crop diseases directly from leaf images.
+An app that looks at a photo of a crop leaf and tells you if the plant is sick, using a pre-trained image model (MobileNetV2).
 
 **Highlights**
-- 90.69% test accuracy across 677 unseen leaf images
-- Production-oriented FastAPI inference pipeline
-- Confidence thresholding + treatment recommendations
+- 90.69% accurate on 677 leaf photos it hadn't seen before
+- Backend built with FastAPI, ready for real use, not just a demo
+- Checks how confident it is and suggests treatment
 
 <sub>`TensorFlow` `FastAPI` `MobileNetV2` `JavaScript`</sub>
 
@@ -90,12 +90,12 @@ AI-powered plant health platform using MobileNetV2 transfer learning to classify
 ### 📊&nbsp; Pivotly
 <sub><b>Venture Intelligence Platform</b></sub>
 
-A startup discovery and market-research platform combining structured data with AI-driven evaluation.
+A platform for finding and researching startups, with some AI help built in to make evaluation easier.
 
 **Highlights**
-- Startup profiling, discovery & comparison tools
-- Search, filtering, and analytics dashboards
-- AI-powered insight generation for evaluators
+- Search and compare startups by different criteria
+- Dashboards to filter and analyze the data
+- AI helps generate quick insights for evaluators
 
 <sub>`React.js` `Node.js` `Express.js` `PostgreSQL`</sub>
 
@@ -109,12 +109,12 @@ A startup discovery and market-research platform combining structured data with 
 ### 🛒&nbsp; E-Commerce Management System
 <sub><b>Java Backend Platform</b></sub>
 
-A full transactional backend supporting Admin, Seller, and Customer roles, built on custom data structures.
+A Java backend for an online store, with separate logins and views for Admin, Seller, and Customer.
 
 **Highlights**
-- Auth, cart, billing & transaction workflows
-- Custom Doubly Linked List & Stack implementations
-- Direct JDBC data-access layer
+- Login, cart, billing, and order handling
+- Built custom Linked List and Stack instead of relying on libraries
+- Talks to MySQL directly using JDBC
 
 <sub>`Java` `JDBC` `MySQL`</sub>
 
@@ -126,12 +126,12 @@ A full transactional backend supporting Admin, Seller, and Customer roles, built
 ### 💰&nbsp; Arthasanket
 <sub><b>Personal Finance Management Platform</b></sub>
 
-A financial dashboard for tracking income, expenses, and budgets, focused on clarity.
+A dashboard for tracking your income, expenses, and budget in one place.
 
 **Highlights**
-- Automated expense categorization
-- Budget tracking with spending insights
-- Clean, responsive dashboard UI
+- Automatically sorts expenses into categories
+- Shows where your budget is going
+- Clean, easy-to-use interface
 
 <sub>`JavaScript`</sub>
 
@@ -151,7 +151,7 @@ A financial dashboard for tracking income, expenses, and budgets, focused on cla
 
 ### "Personalised Yet Uniform: Algorithmic Curation and the Construction of Generational Identity"
 
-Proposed the **Algorithmic Identity Formation Model (AIFM)** to analyze how recommendation systems shape cultural exposure, online behavior, and generational identity.
+Looked at how recommendation systems (the kind that decide what you see online) shape people's habits, exposure to ideas, and identity. Proposed a model called **AIFM** to explain this pattern.
 
 </td>
 </tr>
@@ -245,7 +245,7 @@ Proposed the **Algorithmic Identity Formation Model (AIFM)** to analyze how reco
 
 <div align="center">
 
-### Let's build something worth shipping.
+### Let's connect.
 
 <a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=%230A66C2" height="30"/></a>&nbsp;
 <a href="mailto:rominkevadiya@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=34D399" height="30"/></a>&nbsp;
