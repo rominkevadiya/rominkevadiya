@@ -1,4 +1,3 @@
-redesign this with professional design, elements and you can more details about this
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Romin%20Kevadiya&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&descColor=8b949e" width="100%" />
