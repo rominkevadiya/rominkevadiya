@@ -22,14 +22,9 @@ I like building software that actually works, not just in a demo. That means dat
 
 I mostly work on **backend development** and **machine learning**. Outside of code, I've presented a research paper, taken part in hackathons, and stayed active in Ahmedabad's developer community.
 
-<table width="100%">
-<tr>
-<td align="center">🎓<br/><sub><b>B.E. Mathematics & Computing</b></sub></td>
-<td align="center">📍<br/><sub><b>Ahmedabad, Gujarat</b></sub></td>
-<td align="center">🧪<br/><sub><b>Presented Research Paper — IFERP</b></sub></td>
-<td align="center">🟢<br/><sub><b>Open to PPO</b></sub></td>
-</tr>
-</table>
+| 🎓 | 📍 | 🧪 | 🟢 |
+|:---|:---|:---|:---|
+| **B.E. Mathematics & Computing** | **Ahmedabad, Gujarat** | **Presented Research Paper — IFERP** | **Open to PPO** |
 
 ## Current Focus
 
@@ -44,12 +39,12 @@ I mostly work on **backend development** and **machine learning**. Outside of co
 
 ## Tech Stack
 
-<table width="100%">
-<tr><td width="16%"><sub><b>LANGUAGES</b></sub></td><td><img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" height="40"/></td></tr>
-<tr><td width="16%"><sub><b>BACKEND & DB</b></sub></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb&theme=dark" height="40"/></td></tr>
-<tr><td width="16%"><sub><b>AI / ML</b></sub></td><td><img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" height="40"/></td></tr>
-<tr><td width="16%"><sub><b>FRONTEND</b></sub></td><td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" height="40"/></td></tr>
-<tr><td width="16%"><sub><b>TOOLS</b></sub></td><td><img src="https://skillicons.dev/icons?i=git,github,aws,postman,idea,vscode,linux&theme=dark" height="40"/></td></tr>
+<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+<tr><td width="16%" style="text-align:justify"><sub><b>LANGUAGES</b></sub></td><td style="text-align:justify; width:84%"><img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" height="40"/></td></tr>
+<tr><td width="16%" style="text-align:justify"><sub><b>BACKEND & DB</b></sub></td><td style="text-align:justify; width:84%"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb&theme=dark" height="40"/></td></tr>
+<tr><td width="16%" style="text-align:justify"><sub><b>AI / ML</b></sub></td><td style="text-align:justify; width:84%"><img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" height="40"/></td></tr>
+<tr><td width="16%" style="text-align:justify"><sub><b>FRONTEND</b></sub></td><td style="text-align:justify; width:84%"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" height="40"/></td></tr>
+<tr><td width="16%" style="text-align:justify"><sub><b>TOOLS</b></sub></td><td style="text-align:justify; width:84%"><img src="https://skillicons.dev/icons?i=git,github,aws,postman,idea,vscode,linux&theme=dark" height="40"/></td></tr>
 </table>
 
 ## Engineering Philosophy
@@ -159,31 +154,31 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 
 ## Achievements
 
-<table width="100%">
+<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 <h2>🏆</h2>
 <b>Semi-Finalist</b>
 <br/>
-<sub>ET Gen AI Hackathon<br/>top 10% of participants</sub>
+<sub style="text-align:justify; display:block">ET Gen AI Hackathon — top 10% of participants</sub>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 <h2>🥇</h2>
 <b>Winner</b>
 <br/>
-<sub>Java User Group Gujarat<br/>Social Media Contest</sub>
+<sub style="text-align:justify; display:block">Java User Group Gujarat — Social Media Contest</sub>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 <h2>🎖️</h2>
 <b>Semi-Finalist</b>
 <br/>
-<sub>ET-AI Hackathon 2026<br/>The Economic Times</sub>
+<sub style="text-align:justify; display:block">ET-AI Hackathon 2026 — The Economic Times</sub>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="25%" valign="top">
 <h2>🎖️</h2>
 <b>Hackathon Track</b>
 <br/>
-<sub>Re-Innovate the Retail (ENCODE & ACM-PDEU)<br/>HACKOUT'25 (DA-IICT)</sub>
+<sub style="text-align:justify; display:block">Re-Innovate the Retail (ENCODE & ACM-PDEU), HACKOUT'25 (DA-IICT)</sub>
 </td>
 </tr>
 </table>
@@ -193,6 +188,9 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 <div align="center">
 
 `GDG Ahmedabad` &nbsp;·&nbsp; `GDG Cloud Gandhinagar` &nbsp;·&nbsp; `AWS Ahmedabad Community` &nbsp;·&nbsp; `Java User Group Gujarat`
+
+<br/>
+
 <sub>20+ developer events attended &nbsp;·&nbsp; 5+ hackathons across AI, cloud, backend & full-stack tracks</sub>
 
 </div>
