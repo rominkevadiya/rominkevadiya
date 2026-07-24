@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1200&color=34D399&center=true&vCenter=true&width=580&lines=Designing+systems+that+survive+production;Backend+%2B+ML+%2B+full-stack+engineering;B.E.+Mathematics+and+Computing%2C+2024%E2%80%932028" alt="Typing SVG"/>
 
-<a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-020617?style=flat-square&logo=linkedin&logoColor=10B981" height="28"/></a>&nbsp;
+<a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-020617?style=flat-square&logo=linkedin&logoColor=%230A66C2" height="28"/></a>&nbsp;
 <a href="mailto:rominkevadiya@gmail.com"><img src="https://img.shields.io/badge/Email-020617?style=flat-square&logo=gmail&logoColor=34D399" height="28"/></a>&nbsp;
 <a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-020617?style=flat-square&logo=github&logoColor=22C55E" height="28"/></a>
 
@@ -162,32 +162,28 @@ Proposed the **Algorithmic Identity Formation Model (AIFM)** to analyze how reco
 <table width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
-
-### 🏆
-**Semi-Finalist**
-<sub>ET Gen AI Hackathon — top 10% of participants</sub>
-
+<h2>🏆</h2>
+<b>Semi-Finalist</b>
+<br/>
+<sub>ET Gen AI Hackathon<br/>top 10% of participants</sub>
 </td>
 <td width="25%" align="center" valign="top">
-
-### 🥇
-**Winner**
-<sub>Java User Group Gujarat — Social Media Contest</sub>
-
+<h2>🥇</h2>
+<b>Winner</b>
+<br/>
+<sub>Java User Group Gujarat<br/>Social Media Contest</sub>
 </td>
 <td width="25%" align="center" valign="top">
-
-### 🎖️
-**Semi-Finalist**
-<sub>ET-AI Hackathon 2026 — The Economic Times</sub>
-
+<h2>🎖️</h2>
+<b>Semi-Finalist</b>
+<br/>
+<sub>ET-AI Hackathon 2026<br/>The Economic Times</sub>
 </td>
 <td width="25%" align="center" valign="top">
-
-### 🎖️
-**Hackathon Track**
-<sub>Re-Innovate the Retail — ENCODE & ACM-PDEU · HACKOUT'25 — DA-IICT</sub>
-
+<h2>🎖️</h2>
+<b>Hackathon Track</b>
+<br/>
+<sub>Re-Innovate the Retail (ENCODE & ACM-PDEU)<br/>HACKOUT'25 (DA-IICT)</sub>
 </td>
 </tr>
 </table>
@@ -218,14 +214,32 @@ Proposed the **Algorithmic Identity Formation Model (AIFM)** to analyze how reco
 
 <sub>A quick snapshot of activity, languages, and consistency over time.</sub>
 
-<div align="center">
-
-<img width="48%" src="https://github-stats-extended.vercel.app/api?username=rominkevadiya&show_icons=true&hide_border=true&theme=dark&bg_color=0F172A&title_color=10B981&icon_color=34D399&text_color=E2E8F0&ring_color=10B981" />
-<img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&hide_border=true&theme=dark&bg_color=0F172A&title_color=10B981&text_color=E2E8F0&langs_count=8&hide_progress=true" />
-<img width="70%" src="https://streak-stats.demolab.com?user=rominkevadiya&hide_border=true&background=0F172A&ring=10B981&fire=34D399&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8" />
-<img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=rominkevadiya&bg_color=0F172A&color=10B981&line=34D399&point=E2E8F0&area=true&hide_border=true" />
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<sub><b>OVERVIEW</b></sub>
+<br/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=rominkevadiya&show_icons=true&hide_border=true&theme=dark&bg_color=0F172A&title_color=10B981&icon_color=34D399&text_color=E2E8F0&ring_color=10B981" />
+</td>
+<td width="50%" align="center">
+<sub><b>TOP LANGUAGES</b></sub>
+<br/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rominkevadiya&layout=compact&hide_border=true&theme=dark&bg_color=0F172A&title_color=10B981&text_color=E2E8F0&langs_count=8&hide_progress=true" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<sub><b>STREAK</b></sub>
+<br/>
+<img width="100%" src="https://streak-stats.demolab.com?user=rominkevadiya&hide_border=true&background=0F172A&ring=10B981&fire=34D399&currStreakLabel=E2E8F0&sideLabels=E2E8F0&dates=94A3B8" />
+</td>
+<td width="50%" align="center">
+<sub><b>ACTIVITY</b></sub>
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rominkevadiya&bg_color=0F172A&color=10B981&line=34D399&point=E2E8F0&area=true&hide_border=true" />
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
@@ -233,7 +247,7 @@ Proposed the **Algorithmic Identity Formation Model (AIFM)** to analyze how reco
 
 ### Let's build something worth shipping.
 
-<a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=10B981" height="30"/></a>&nbsp;
+<a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=%230A66C2" height="30"/></a>&nbsp;
 <a href="mailto:rominkevadiya@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=34D399" height="30"/></a>&nbsp;
 <a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=22C55E" height="30"/></a>
 
