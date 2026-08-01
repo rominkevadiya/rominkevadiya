@@ -142,7 +142,7 @@ A dashboard for tracking your income, expenses, and budget in one place.
 <tr>
 <td style="border-left: 3px solid #10B981;" valign="top">
 
-<sub>PUBLISHED PAPER · IFERP INTERNATIONAL CONFERENCE (ICRAET 2026)</sub>
+<sub>PRESENTED PAPER · IFERP INTERNATIONAL CONFERENCE (ICRAET 2026)</sub>
 
 ### "Personalised Yet Uniform: Algorithmic Curation and the Construction of Generational Identity"
 
