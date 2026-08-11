@@ -76,37 +76,32 @@ Outside of code, I've presented a research paper, taken part in hackathons, and 
 
 ## 🧰&nbsp; Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" height="42"/>
-
-<br/><br/>
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb&theme=dark" height="42"/>
-
-<br/><br/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" height="42"/>
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" height="42"/>
-
-<br/><br/>
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,aws,postman,idea,vscode,linux&theme=dark" height="42"/>
-
-</div>
+<table width="100%">
+<tr>
+<td width="18%" valign="middle"><img src="https://img.shields.io/badge/Languages-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="82%" valign="middle"><img src="https://skillicons.dev/icons?i=java,python,javascript,mysql&theme=dark" height="38"/></td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="18%" valign="middle"><img src="https://img.shields.io/badge/Backend%20%26%20DB-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="82%" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,postgres,mongodb&theme=dark" height="38"/></td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="18%" valign="middle"><img src="https://img.shields.io/badge/AI%20%2F%20ML-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="82%" valign="middle"><img src="https://skillicons.dev/icons?i=tensorflow,opencv,pytorch&theme=dark" height="38"/></td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="18%" valign="middle"><img src="https://img.shields.io/badge/Frontend-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="82%" valign="middle"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" height="38"/></td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="18%" valign="middle"><img src="https://img.shields.io/badge/Tools-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="82%" valign="middle"><img src="https://skillicons.dev/icons?i=git,github,aws,postman,idea,vscode,linux&theme=dark" height="38"/></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=2&width=100%25" width="100%"/>
 
