@@ -306,7 +306,7 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 <tr>
 <td width="50%" align="center">
 <sub><b>STREAK</b></sub><br/>
-<img width="100%" src="https://streak-stats.demolab.com/?user=rominkevadiya&theme=dark&hide_border=true&background=0F172A&stroke=1E3A8A&ring=1E3A8A&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&border_radius=8"/>
+<img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=rominkevadiya&theme=dark&hide_border=true&background=0F172A&stroke=1E3A8A&ring=1E3A8A&fire=38BDF8&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&border_radius=8"/>
 </td>
 <td width="50%" align="center">
 <sub><b>ACTIVITY</b></sub><br/>
