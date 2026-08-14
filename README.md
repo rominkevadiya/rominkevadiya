@@ -11,6 +11,30 @@
 <a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=93C5FD" height="30"/></a>
 <a href="https://drive.google.com/file/d/1pNkgJQxWyQa3Fdk-v29bUkcxVQaBQGye/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=60A5FA" height="30"/></a>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🔴%20Currently%20Building-Pivotly%20—%20AI%20Venture%20Intelligence%20Platform-1E293B?style=flat-square&labelColor=0F172A&color=1E293B"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>
+<a href="#-overview">Overview</a> ·
+<a href="#️-current-focus">Focus</a> ·
+<a href="#-tech-stack">Stack</a> ·
+<a href="#-featured-work">Projects</a> ·
+<a href="#-pinned-repositories">Pinned</a> ·
+<a href="#-research">Research</a> ·
+<a href="#-achievements">Achievements</a> ·
+<a href="#-writing">Writing</a> ·
+<a href="#️-developer-journey">Journey</a> ·
+<a href="#-analytics">Analytics</a> ·
+<a href="#-lets-connect">Contact</a>
+</sub>
+
 </div>
 
 <br/>
@@ -213,6 +237,22 @@ A dashboard for tracking your income, expenses, and budget in one place.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=2&width=100%25" width="100%"/>
 
+## 📌&nbsp; Pinned Repositories
+
+<div align="center">
+
+<a href="https://github.com/rominkevadiya/BeejVaidya-Intelligent-crop-disease-detection"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rominkevadiya&repo=BeejVaidya-Intelligent-crop-disease-detection&theme=dark&bg_color=0F172A&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&border_color=1E3A8A&hide_border=false" height="150"/></a>
+<a href="https://github.com/rominkevadiya/Pivotly"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rominkevadiya&repo=Pivotly&theme=dark&bg_color=0F172A&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&border_color=1E3A8A&hide_border=false" height="150"/></a>
+<br/>
+<a href="https://github.com/rominkevadiya/E-commerce"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rominkevadiya&repo=E-commerce&theme=dark&bg_color=0F172A&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&border_color=1E3A8A&hide_border=false" height="150"/></a>
+<a href="https://github.com/rominkevadiya/Arthasanket"><img src="https://github-stats-extended.vercel.app/api/pin/?username=rominkevadiya&repo=Arthasanket&theme=dark&bg_color=0F172A&title_color=60A5FA&icon_color=38BDF8&text_color=E2E8F0&border_color=1E3A8A&hide_border=false" height="150"/></a>
+
+<sub>Live stats (stars, forks, language) synced directly from GitHub — updates automatically as the repos grow.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=2&width=100%25" width="100%"/>
+
 ## 📄&nbsp; Research
 
 <table width="100%">
@@ -271,20 +311,65 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 
 <sub>20+ developer events attended &nbsp;·&nbsp; 5+ hackathons across AI, cloud, backend & full-stack tracks</sub>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=rominkevadiya&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%"/>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=2&width=100%25" width="100%"/>
+
+## ✍️&nbsp; Writing
+
+<table width="100%">
+<tr>
+<td style="border-left: 4px solid #1E3A8A;" valign="top">
+
+<sub>PENDING FIRST PUBLIC POST</sub>
+
+I'm working on write-ups of the projects and research above — starting with a breakdown of how BeejVaidya's confidence-check pipeline works, and what building Pivotly is teaching me about backend design.
+
+<sub>📝 Links will go here once published — check back soon.</sub>
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=2&width=100%25" width="100%"/>
 
 ## 🗺️&nbsp; Developer Journey
 
-```
-2024   ──▶  Started B.E. in Mathematics and Computing
-2025   ──▶  Built first production-style Java backend (E-Commerce System)
-2026   ──▶  Presented research paper — IFERP International Conference (ICRAET 2026)
-2026   ──▶  Shipped BeejVaidya — 90.69% accuracy crop disease classifier
-2026   ──▶  Semi-Finalist, ET-AI Hackathon 2026 (The Economic Times)
-2026   ──▶  Building Pivotly — AI-assisted venture intelligence platform
-```
+<table width="100%">
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/2024-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="88%" valign="middle">🎓&nbsp; Started B.E. in Mathematics and Computing</td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/2025-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="88%" valign="middle">🛒&nbsp; Built first production-style Java backend (E-Commerce Management System)</td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/2026-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="88%" valign="middle">📄&nbsp; Presented research paper — IFERP International Conference (ICRAET 2026)</td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/2026-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="88%" valign="middle">🌾&nbsp; Shipped BeejVaidya — 90.69% accuracy crop disease classifier</td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/2026-1E3A8A?style=for-the-badge&logoColor=E2E8F0"/></td>
+<td width="88%" valign="middle">🎖️&nbsp; Semi-Finalist, ET-AI Hackathon 2026 (The Economic Times)</td>
+</tr>
+<tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=1&width=100%25" width="100%"/></td></tr>
+<tr>
+<td width="12%" align="center"><img src="https://img.shields.io/badge/2026-38BDF8?style=for-the-badge&logoColor=0F172A"/></td>
+<td width="88%" valign="middle">📊&nbsp; <b>Now:</b> Building Pivotly — AI-assisted venture intelligence platform</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0F172A&height=2&width=100%25" width="100%"/>
 
@@ -319,12 +404,20 @@ Looked at how recommendation systems (the kind that decide what you see online) 
 
 <div align="center">
 
-### Let's connect
+### 📬&nbsp; Let's Connect
+
+Open to backend, full-stack, and AI/ML internship or full-time opportunities — reach out through any of these:
 
 <a href="https://linkedin.com/in/rominkevadiya"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=60A5FA" height="30"/></a>
 <a href="mailto:rominkevadiya@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" height="30"/></a>
 <a href="https://github.com/rominkevadiya"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=93C5FD" height="30"/></a>
 <a href="https://drive.google.com/file/d/1pNkgJQxWyQa3Fdk-v29bUkcxVQaBQGye/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0F172A?style=for-the-badge&logo=googledrive&logoColor=60A5FA" height="30"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=rominkevadiya&label=Profile%20Views&color=1E3A8A&style=flat-square"/>
+
+<br/><br/>
 
 <sub>Romin Kevadiya — I build systems that solve real problems.</sub>
 
